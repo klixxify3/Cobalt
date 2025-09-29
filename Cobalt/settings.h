@@ -9,7 +9,7 @@ enum class ECobaltUsage
 
 #define URL_PROTOCOL "http"
 #define URL_HOST "127.0.0.1"
-#define URL_PORT "3551"
+#define URL_PORT "8080"
 // #define USE_MINHOOK // ONLY USE IF U INJECT LATE
 
 #define SHOW_WINDOWS_CONSOLE
